@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/119/trunk/eluavfd/avr-controller
+END
+usart.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/110/trunk/eluavfd/avr-controller/usart.c
+END
+usart.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/118/trunk/eluavfd/avr-controller/usart.h
+END
+VFD_segs.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/110/trunk/eluavfd/avr-controller/VFD_segs.h
+END
+max6921.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/118/trunk/eluavfd/avr-controller/max6921.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/119/trunk/eluavfd/avr-controller/README
+END
+max6921.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/118/trunk/eluavfd/avr-controller/max6921.h
+END
+VFD.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/118/trunk/eluavfd/avr-controller/VFD.c
+END
+VFD.aps
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/118/trunk/eluavfd/avr-controller/VFD.aps
+END
+vfd_fsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/118/trunk/eluavfd/avr-controller/vfd_fsm.c
+END
+VFD.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/trunk/eluavfd/avr-controller/VFD.h
+END
+boost.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/110/trunk/eluavfd/avr-controller/boost.c
+END
+timeout.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/110/trunk/eluavfd/avr-controller/timeout.c
+END
+vfd.aws
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/118/trunk/eluavfd/avr-controller/vfd.aws
+END
+vfd_fsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/118/trunk/eluavfd/avr-controller/vfd_fsm.h
+END
+timeout.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/110/trunk/eluavfd/avr-controller/timeout.h
+END
+boost.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/118/trunk/eluavfd/avr-controller/boost.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/110/trunk/eluavfd/avr-controller/Makefile
+END
